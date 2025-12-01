@@ -390,7 +390,7 @@ Future enhancements:
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ```
 MIT License
@@ -454,7 +454,6 @@ If you use this simulation in your research, please cite the original paper:
   author={Psaras, Ioannis and Chai, Wei Koong and Pavlou, George},
   booktitle={Proceedings of the second edition of the ICN workshop on 
              Information-centric networking},
-  pages={55--60},
   year={2012},
   organization={ACM}
 }
