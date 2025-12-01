@@ -232,7 +232,7 @@ TimesIn(x) = (c - x + 1) / T_tw
 
 For networks with varying cache capacities, ProbCache+ explicitly calculates the sum of upstream capacities by traversing the path toward the server, implementing equations (4) and (5) from the paper.
 
-## 🔧 Extending the Code
+##  Extending the Code
 
 ### Adding a New Strategy
 
