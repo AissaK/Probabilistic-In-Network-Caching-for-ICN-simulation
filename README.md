@@ -8,16 +8,16 @@ Faithful implementation of the **ProbCache** mechanism for ICN (Information-Cent
 
 ##  Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Results](#-results)
-- [Architecture](#-architecture)
-- [Implemented Equations](#-implemented-equations)
-- [Extending the Code](#-extending-the-code)
-- [References](#-references)
-- [License](#-license)
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+- [Architecture](#architecture)
+- [Implemented Equations](#implemented-equations)
+- [Extending the Code](#extending-the-code)
+- [References](#references)
+- [License](#license)
 
 ##  Overview
 
