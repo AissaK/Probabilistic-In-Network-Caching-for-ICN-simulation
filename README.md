@@ -6,7 +6,7 @@ Faithful implementation of the **ProbCache** mechanism for ICN (Information-Cent
 > *Psaras, I., Chai, W. K., & Pavlou, G. (2012)*  
 > ACM SIGCOMM Workshop on Information-Centric Networking (ICN '12)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -117,7 +117,7 @@ NUM_REQUESTS = 100000        # Number of requests
 ZIPF_ALPHA = 0.8             # Zipf distribution parameter
 ```
 
-## 📊 Results
+##  Results
 
 ### Comparative Performance (3 seconds capacity)
 
@@ -151,7 +151,7 @@ Each graph contains 4 subplots:
 
 *Figure: Comparison of caching strategies showing ProbCache's superior Hop Reduction performance*
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Main Classes
 
@@ -181,7 +181,7 @@ ICNSimulator               # Simulation engine
 4. Display comparative results
 ```
 
-## 📐 Implemented Equations
+##  Implemented Equations
 
 ### ProbCache
 
@@ -357,11 +357,7 @@ Number of times content is removed from cache to make room. Lower evictions indi
 }
 ```
 
-### Additional Resources
 
-- [Named Data Networking](https://named-data.net/) - NDN Project
-- [ICN Research Group](https://irtf.org/icnrg) - IRTF ICN
-- [Content-Centric Networking](https://www.ccnx.org/) - CCNx Project
 
 ### Related Work
 
@@ -392,7 +388,7 @@ Future enhancements:
 - [ ] Web-based visualization interface
 - [ ] Real-world trace replay capability
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -443,12 +439,12 @@ For questions or suggestions:
 - **Pull Requests**: Always welcome!
 - **Email**: aissa.kadri@etu.utc.fr
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Ioannis Psaras, Wei Koong Chai, and George Pavlou for their paper
 
 
-## 📊 Citation
+##  Citation
 
 If you use this simulation in your research, please cite the original paper:
 
